@@ -4,13 +4,14 @@
 
 ## :camera: Demonstração
 
-
+<div align="inline">
   <img src="./git_img/1.PNG"><br/><br/>
   <img src="./git_img/2.PNG"><br/><br/>
   <img src="./git_img/3.PNG"><br/><br/>
   <img src="./git_img/4.PNG"><br/><br/>
   <img src="./git_img/5.PNG"><br/><br/>
   <img src="./git_img/6.PNG"><br/><br/>
+</div>
 <br/>
 
 # Funcionalidades
