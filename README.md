@@ -4,8 +4,8 @@
 
 ## :camera: Demonstração
 
-<div align="center" >
-  <img src="./git_img/1.PNG" width="300" height="500"><br/><br/>
+<div  >
+  <img src="./git_img/1.PNG"><br/><br/>
   <img src="./git_img/2.PNG"><br/><br/>
   <img src="./git_img/3.PNG"><br/><br/>
   <img src="./git_img/4.PNG"><br/><br/>
