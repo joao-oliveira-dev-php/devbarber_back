@@ -5,7 +5,7 @@
 ## :camera: Demonstração
 
 <div align="center">
-  <img src="./git_img/1.PNG"><br/><br/>
+  <img src="./git_img/1.PNG" height="500"><br/><br/>
   <img src="./git_img/2.PNG"><br/><br/>
   <img src="./git_img/3.PNG"><br/><br/>
   <img src="./git_img/4.PNG"><br/><br/>
@@ -16,12 +16,12 @@
 
 # Funcionalidades
 
+ - Unauthorized
  - Login
- - Register
- - Validação do token JWT
+ - Cadastro
  - logout
- - Listar Avisos
- - Dar Like ou tirar like do aviso
+ - Refresh token JWT
+ - Listar Infomaçãoes do usuario logado
  - Listar Documentos
  - Listar Ocorrencia
  - Adicionar Ocorrencia
