@@ -16,30 +16,35 @@
 
 # Funcionalidades
 
- - Unauthorized
- - Login
- - Cadastro
- - logout
- - Refresh token JWT
- - Listar Infomaçãoes do usuario logado
- - Listar Documentos
- - Listar Ocorrencia
- - Adicionar Ocorrencia
- - Adicionar Arquivo da ocorrencia
- - Listar Boletos
- - Listar unidade pelo ID
- - Adicionar pessoas a unidade do ID informado
- - Adicionar veiculos a unidade do ID informado
- - Adicionar pets a unidade do ID informado
- - Remover pessoas a unidade do ID informado
- - Remover veiculos a unidade do ID informado
- - Remover pets a unidade do ID informado
- - Listar Reservas de areas compartilhadas
- - Reserva uma area compartilhada
- - Listar dias desabilitados por padrão de determinada area compartilhada
- - Listar Horarios disponiveis da area compartilada
- - Listar minhas reservas
- - Deletar uma reserva minha pelo ID
+ - 1 - Unauthorized
+ - 2 - Login
+ - 3 - Cadastro
+ - 4 - logout
+ - 5 - Refresh token JWT
+ - 6 - Listar Infomaçãoes do usuario logado
+ - 7 - Listar Barbeiros favoritos
+ - 8 - Favoritar Barbeiro
+ - 9 - Listar Agendamentos do usuario
+ - 10 - Listar todo os barbeiros
+ - 11 - Listar barbeiro pelo ID
+ - 12 - Fazer agendamento com o barbeiro
+ - 13 -Buscar barbeiro
+
+# Rotas
+
+ - 1 - /401
+ - 2 - /auth/login
+ - 3 - /user
+ - 4 - /auth/logout
+ - 5 - /auth/refresh
+ - 6 - /user
+ - 7 - /user/favorites
+ - 8 - /user/favorite
+ - 9 - /user/appointments
+ - 10 - /barbers
+ - 11 - /barber/{id}
+ - 12 - /barbers/{id}/appointment
+ - 13 - /search
 
 ---
 
