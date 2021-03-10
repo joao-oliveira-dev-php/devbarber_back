@@ -5,12 +5,12 @@
 ## :camera: Demonstração
 
 <p align="center">
-  <img src="./git_img/1.PNG" alt="App Demo" ><br/><br/>
-  <img src="./git_img/2.PNG" alt="App Demo" ><br/><br/>
-  <img src="./git_img/3.PNG"><br/><br/>
-  <img src="./git_img/4.PNG"><br/><br/>
-  <img src="./git_img/5.PNG"><br/><br/>
-  <img src="./git_img/6.PNG"><br/><br/>
+  <img src="./git_img/1.PNG" >
+  <img src="./git_img/2.PNG" >
+  <img src="./git_img/3.PNG">
+  <img src="./git_img/4.PNG">
+  <img src="./git_img/5.PNG">
+  <img src="./git_img/6.PNG">
 </p>
 <br/>
 
