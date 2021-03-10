@@ -5,12 +5,12 @@
 ## :camera: Demonstração
 
 <p align="center">
-  <img src="./git_img/1.PNG" >
-  <img src="./git_img/2.PNG" >
-  <img src="./git_img/3.PNG">
-  <img src="./git_img/4.PNG">
-  <img src="./git_img/5.PNG">
-  <img src="./git_img/6.PNG">
+  <img src="./git_img/1.PNG" height="800" >
+  <img src="./git_img/2.PNG" height="800">
+  <img src="./git_img/3.PNG" height="800">
+  <img src="./git_img/4.PNG" height="800">
+  <img src="./git_img/5.PNG" height="800">
+  <img src="./git_img/6.PNG" height="800">
 </p>
 <br/>
 
