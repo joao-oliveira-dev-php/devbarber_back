@@ -4,7 +4,7 @@
 
 ## :camera: Demonstração
 
-<div align="inline">
+<div align="center">
   <img src="./git_img/1.PNG" alt="demo-web" height="425"><br/><br/>
   <img src="./git_img/2.PNG" alt="demo-web" height="425"><br/><br/>
   <img src="./git_img/3.PNG"><br/><br/>
