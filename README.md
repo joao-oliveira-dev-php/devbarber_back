@@ -28,23 +28,27 @@
  - 10 - Listar todo os barbeiros
  - 11 - Listar barbeiro pelo ID
  - 12 - Fazer agendamento com o barbeiro
- - 13 -Buscar barbeiro
+ - 13 - Buscar barbeiro
+ - 14 - Atualizar informações do perfil do usuario
+ - 15 - Atualizar Avatar do Usuario
 
 # Rotas
 
- - 1 - /401
- - 2 - /auth/login
- - 3 - /user
- - 4 - /auth/logout
- - 5 - /auth/refresh
- - 6 - /user
- - 7 - /user/favorites
- - 8 - /user/favorite
- - 9 - /user/appointments
- - 10 - /barbers
- - 11 - /barber/{id}
- - 12 - /barbers/{id}/appointment
- - 13 - /search
+ - 1 - /401 - GET
+ - 2 - /auth/login - POST
+ - 3 - /user - POST
+ - 4 - /auth/logout - POST
+ - 5 - /auth/refresh - POST
+ - 6 - /user - GET
+ - 7 - /user/favorites - GET
+ - 8 - /user/favorite - POST
+ - 9 - /user/appointments - GET
+ - 10 - /barbers - GET
+ - 11 - /barber/{id} - GET
+ - 12 - /barbers/{id}/appointment - POST
+ - 13 - /search - GET
+ - 14 - /user -PUT
+ - 15 - /user/avatar - POST
 
 ---
 
