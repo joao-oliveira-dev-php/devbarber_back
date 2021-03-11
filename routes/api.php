@@ -26,8 +26,10 @@ Route::middleware('auth:api')->group(function() {
     Route::post('/auth/refresh', [AuthController::class, 'refresh']);
 
     Route::get('/user', [UserController::class, 'read']);
+    Route::put('/user', [UserController::class, 'update']);
+    Route::post('/user/avatar', [UserController::class, 'updateAvatar']);
     Route::get('/user/favorites', [UserController::class, 'getFavorites']);
-    Route::post('/user/favorite', [UserController::class, 'addFavorite']);
+    Route::post('/user/favorite', [UserController::class, 'toggleFavorite']);
     Route::get('/user/appointments', [UserController::class, 'getAppointments']);
 
 
